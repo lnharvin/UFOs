@@ -33,3 +33,5 @@ Below are search results for sightings in North Carolina
 JavaScript functions allow for the client interface to load, filter and respond dynamically based on users input, therefore the response time is fairly quick. Other than redesigning the webpage to provide a more condensed layout, I don't have any other recommendations for further development. 
 
 JavaScript is far more involved then I have ever had to pleasure to use thus far. Becoming proficient in JavaScript requires a lot of practice and patience.   
+
+*Note: I purposefully used a separte .js file in this project verses the app.js so that I could retain my original code example.*
